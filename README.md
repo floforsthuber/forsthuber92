@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Florian!
-- 👀 I’m interested in Economics, networks.
+- 👀 I’m interested in Economics.
 - 🌱 I’m currently (trying to) learning Julia.
 - 💞️ I’m looking to collaborate on anything related to Economics.
 - 📫 How to reach me ...
